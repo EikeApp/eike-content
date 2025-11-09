@@ -3,48 +3,71 @@ data:
   flyer:
     tips:
       - id: 0
-        title: Bewege dich mehr als sonst!
-        description: "Je länger, desto besser: Spazierengehen, Radfahren, Laufen, Rudern …"
+        title: Motivation
+        description: >
+          "Folgende 7 Sachen tun dir gut und helfen dir, Stress und Einsatzbelastungen zu verarbeiten. 
+          Manchmal hat man keine Lust, etwas davon zu tun. Wenn du dich trotzdem dazu aufraffst, wird es dir besser gehen.
+          Suche dir jemanden, der dir hilft, dich zu motivieren."
         icon:
-          src: 7-things/bewege-dich-mehr-als-sonst.png
-          alt: Zwei laufende Figuren – Symbol für Bewegung und Aktivität.
+          src: 7-things/Boot.jpg
+          alt: "Eine Figur sitz in einem Ruderboot und rudert durch die Wellen. Auf dem Boot stehen die Begriffe ""7 Sachen"", ""Auseinandersetzung"" und ""Abstand""".
       - id: 1
-        title: Bleib nüchtern!
-        description: "Meide Alkohol und Drogen! Gönne Dir stattdessen etwas: ein großes Eis, einen freien Nachmittag, einen Kinobesuch, …"
+        title: Bewege dich mehr als sonst!
+        description: >
+          "Stress versorgt uns mit viel Energie für Notfälle. Gib deinem Körper die Möglichkeit, diese Energie 
+          hinterher wieder loszuwerden. Bewege dich mehr als sonst! Je länger, desto besser: Spazierengehen, Radfahren, Laufen, Rudern …"
         icon:
-          src: path/to/icon2.png
-          alt: Figur mit durchgestrichenem Glas und Zigarette – Symbol für Verzicht auf Alkohol und Drogen.
+          src: 7-things/Beweg dich.jpg
+          alt: Eine laufende Figuren – eine grüne Hälfte symbolisiert steigende Energie, eine rote Hälfte sinkenden Stress.
       - id: 2
-        description: An einem ruhigen Ort, zu einer bestimmten Zeit, bei einer Tätigkeit, …
-        title: Suche Ruhe und Sicherheit!
+        title: Bleib nüchtern!
+        description: >
+          "Alkohol und Drogen betäuben Gedanken und Gefühle. Sie behindern das Gehirn aber auch bei der Verarbeitung von Stress
+          und Belastungen. Lässt ihre Wirkung nach, geht alles wieder von vorne los. Darum:
+          Meide Alkohol und Drogen! Gönne Dir stattdessen etwas: ein großes Eis, einen freien Nachmittag, einen Kinobesuch …"
         icon:
-          src: path/to/icon3.png
-          alt: Sitzende Figur mit Händen vor der Brust – Symbol für Ruhe und innere Sicherheit.
+          src: 7-things/Bleibe nüchtern.jpg
+          alt: Figur mit ausgestreckten Armen im Sprung nach vorne. Im Hintergrund ein roter Mülleimer mit offenem Deckel gefüllt mit zwei Glasflaschen.
       - id: 3
-        title: Bekomme etwas fertig!
-        description: Etwas reparieren, etwas aufräumen, etwas sauber machen, etwas vollenden …
+        title: Suche Ruhe und Sicherheit!
+        description: >
+          "Starker Stress und hohe EInsatzbelastungen sind anstrengend, machen unruhig und unsicher. 
+          Ruhe und Sicherheit gibt es an einem ruhigen Ort, zu einer bestimmten Zeit, bei einer Tätigkeit …"
         icon:
-          src: path/to/icon4.png
-          alt: Figur mit Werkzeug – Symbol für das Erledigen und Fertigstellen von Aufgaben.
+          src: 7-things/Suche Ruhe.jpg
+          alt: Eine Figur sitzt auf einem grünen Haken und entspannt mit den Händen hinter dem Kopf.
       - id: 4
-        title: Triff dich mit anderen!
-        description: Zum Essen, zum Schnacken, zum Sport treiben, zum Arbeiten, zum …
+        title: Bekomme etwas fertig!
+        description: >
+          "Manchmal entsteht nach belastenden Einsätzen das Gefühl von Hilflosigkeit und Kontrollverlust. 
+          Um dich wieder handlungsfähig zu fühlen, kannst due etwas reparieren, etwas aufräumen, etwas saubermachen, etwas …"
         icon:
-          src: path/to/icon5.png
-          alt: Zwei Figuren, die sich begrüßen – Symbol für soziale Kontakte und Austausch.
+          src: 7-things/Fertig.jpg
+          alt: Figur setzt ein grünes Häkchen in das oberste von drei übereinander stehenden Kästen. Die unteren zwei sind bereits abgehakt. 
       - id: 5
-        title: Plane etwas, worauf du dich freust!
-        description: Einen Ausflug, eine Anschaffung, den nächsten Urlaub, deinen Geburtstag …
+        title: Triff dich mit anderen!
+        description: >
+          "Stress und Belastungen können einsam machen. Soziale Kontakte machen uns dagegen stärker. Darum 
+          triff dich also mit anderen: zum Essen, zum Schnacken, zum Sporttreiben, zum Arbeiten …"
         icon:
-          src: path/to/icon6.png
-          alt: Figur zeigt mit erhobener Hand nach vorne – Symbol für Vorfreude und Planung positiver Ereignisse.
+          src: 7-things/Triff dich ohne Hintergrund.png
+          alt: Zwei Figuren, die sich mit einem Abklatschen begrüßen.
       - id: 6
-        title: Du kannst dir Unterstützung holen,
-        description: wenn Stress und Belastung nicht weniger werden. Dein Einsatznachsorgeteam ist für dich erreichbar.
-          Tu das in jedem Fall, wenn es dir nach 4 Wochen noch nicht wieder gut geht!
+        title: Plane etwas, worauf du dich freust!
+        description: >
+          "Auch nach belastenden Einsätzengeht dein Leben weiter. Stärke deine Zuversicht, indem du etwas Schönes planst:
+          einen Ausflug, eine Anschaffung, den nächsten Urlaub, deinen Geburtstag …"
         icon:
-          src: path/to/icon7.png
-          alt: Eine Figur hilft einer anderen auf – Symbol für Unterstützung und gegenseitige Hilfe.
+          src: 7-things/Plane etwas.jpg
+          alt: Figur zeigt mit erhobener Hand nach vorne, im Hintergrund ein Terminplaner.
+      - id: 7
+        title: Du kannst dir Unterstützung holen!
+        description: >
+          "Wenn Stress und Belastung nicht weniger werden, ist dein Einsatznachsorgeteam ist für dich erreichbar.
+          Tu das auf jeden Fall, wenn es dir nach vier Wochen immer noch nicht wieder gut geht!"
+        icon:
+          src: 7-things/Unterstützung.jpg
+          alt: Eine Figur hilft einer anderen über eine Mauer.
 meta:
   author: DF-PSNV https://df-psnv.de/
   license: [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
